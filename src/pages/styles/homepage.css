@@ -76,6 +76,7 @@
 .homepage-projects {
 	flex-basis: 300px;
 	padding-top: 40px;
+	margin: 20px;
 }
 
 .homepage-articles {
@@ -147,4 +148,65 @@
 		margin-left: -25px;
 		margin-right: -25px;
 	}
+}
+.terminal {
+	background-color: #2d2d2d;
+	color: #00ff00;
+	font-family: "Courier New", Courier, monospace;
+	padding: 20px;
+	border-radius: 5px;
+	margin-top: 20px;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.terminal-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.terminal-buttons {
+	display: flex;
+	gap: 5px;
+}
+
+.terminal-button {
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+}
+
+.terminal-button.close {
+	background-color: #ff5f56;
+}
+
+.terminal-button.minimize {
+	background-color: #ffbd2e;
+}
+
+.terminal-button.maximize {
+	background-color: #27c93f;
+}
+
+.terminal-title {
+	color: #ccc;
+	font-size: 14px;
+}
+
+.terminal-body {
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+.terminal-text {
+	margin: 0;
+}
+
+.terminal-prompt {
+	color: #00ff00;
+}
+
+.terminal-command {
+	color: #00ffff;
 }
