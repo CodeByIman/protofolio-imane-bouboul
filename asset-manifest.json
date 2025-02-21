@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/protofolio-imane-bouboul/static/css/main.1a21940f.css",
-    "main.js": "/protofolio-imane-bouboul/static/js/main.5d0fb255.js",
+    "main.js": "/protofolio-imane-bouboul/static/js/main.357d29ca.js",
     "static/js/453.42568bda.chunk.js": "/protofolio-imane-bouboul/static/js/453.42568bda.chunk.js",
     "index.html": "/protofolio-imane-bouboul/index.html",
     "main.1a21940f.css.map": "/protofolio-imane-bouboul/static/css/main.1a21940f.css.map",
-    "main.5d0fb255.js.map": "/protofolio-imane-bouboul/static/js/main.5d0fb255.js.map",
+    "main.357d29ca.js.map": "/protofolio-imane-bouboul/static/js/main.357d29ca.js.map",
     "453.42568bda.chunk.js.map": "/protofolio-imane-bouboul/static/js/453.42568bda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a21940f.css",
-    "static/js/main.5d0fb255.js"
+    "static/js/main.357d29ca.js"
   ]
 }
