@@ -1,37 +1,39 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by Iman Bouboul",
-		name: "Iman Bouboul",
-		email: "iman.bouboul@example.com",
+		title: "Protofolio by Imane Bouboul",
+		name: "Imane Bouboul",
+		email: "imanebouboul0@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/imanbouboul",
-		github: "https://github.com/imanbouboul",
-		linkedin: "https://linkedin.com/in/imanbouboul",
-		instagram: "https://instagram.com/imanbouboul",
+		twitter: "https://x.com/ImaneBouboul",
+		github: "https://github.com/CodeByIman",
+		linkedin: "https://www.linkedin.com/in/imane-bouboul/",
+		instagram: "https://instagram.com/imanebouboul",
 		stackoverflow: "https://stackoverflow.com/users/imanbouboul",
-		facebook: "https://facebook.com/imanbouboul",
+		facebook: "https://facebook.com/imanebouboul",
 	},
 
+
 	homepage: {
-		title: "Full-stack web and AI developer, passionate about machine learning and innovation.",
+		title: "Aspiring AI developer and full-stack enthusiast, exploring machine learning and data science.",
 		description:
-			"I am a backend and AI developer with expertise in Node.js, Django, and data science. I enjoy solving complex problems and building intelligent applications that make an impact. Passionate about creating high-quality, scalable solutions, I am always eager to learn and explore new technologies.",
+			"I'm a master's student in Big Data and Data Science with a background in web development using Node.js, Django, and data-driven applications. Currently, I’m focused on learning by building practical projects and exploring innovative uses of AI. I'm passionate about creating meaningful, user-focused solutions and always eager to expand my knowledge.",
 	},
 
 	about: {
-		title: "I’m Iman Bouboul. I live in Morocco, where I build innovative AI solutions.",
+		title: "I’m Iman Bouboul. I live in Morocco, where I’m learning and building AI-powered applications.",
 		description:
-			"I've worked on a variety of projects, focusing on AI, web development, and scalable solutions. Many of these projects are open-source, and I welcome collaboration and feedback. I believe in the power of technology to transform industries and strive to create solutions that drive meaningful change.",
+			"I'm currently working on projects that blend AI, web development, and data science. My journey is fueled by a passion for problem-solving and a desire to build scalable, impactful solutions. I'm also exploring how technology can be used creatively, especially in areas like tourism and education, and I'm open to collaborations and feedback.",
 	},
 
 	articles: {
-		title: "I love exploring new technologies and sharing insights on AI and full-stack development.",
+		title: "Sharing my learning journey in AI, data science, and web development.",
 		description:
-			"A collection of articles on programming, AI research, full-stack development, and best practices in software engineering.",
+			"A collection of thoughts, learnings, and insights on programming, AI concepts, and full-stack development as I grow in the tech field.",
 	},
+
 
 	projects: [
 		{
