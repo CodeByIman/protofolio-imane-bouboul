@@ -3,7 +3,7 @@ const INFO = {
 		title: "Protofolio by Imane Bouboul",
 		name: "Imane Bouboul",
 		email: "imanebouboul0@gmail.com",
-		logo: "/logo.png",
+		logo: "logo.png",
 	},
 
 	socials: {
